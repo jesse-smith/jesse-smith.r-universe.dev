@@ -1,7 +1,5 @@
-![r-universe](https://jesse-smith.r-universe.dev/badges/:total)
-
 # R-universe Package Repository
-
+![r-universe](https://jesse-smith.r-universe.dev/badges/:total)
 This repo contains a `packages.json` file that [R-universe](https://r-universe.dev)
 uses to index R packages on my Github account. The corresponding R-universe package
 repository is at [https://jesse-smith.r-universe.dev]. You can install packages
